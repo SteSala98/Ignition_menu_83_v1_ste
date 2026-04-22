@@ -27,6 +27,8 @@
 config/resources/core/ignition/quickstart/config.json
 #config/resources/core/ignition/quickstart/resource.json
 
-
 ignition.conf
+
+config/resources/local/ignition/local-system-properties/resource.json
+config/resources/local/ignition/local-system-properties/config.json
 
