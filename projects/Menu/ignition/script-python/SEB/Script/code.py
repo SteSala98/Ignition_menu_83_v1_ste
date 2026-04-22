@@ -8,8 +8,6 @@ def c():
 	
 
 def b():
-	#dhjbdhhjdjhdjhbhjbf
-	#foijfjfjfrjoerjerj
-	#ijerirfeuirferejirfjireji
+	# test branch - 003
 	print 'ciaoaaaa'
 	
